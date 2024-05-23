@@ -6,6 +6,7 @@ zuul:
     visits-service: /visit/**
     customers-service: /customer/**
     api-gateway: /gateway/**
+    pets-service: /vets/**
 
 server:
   port: 8080
